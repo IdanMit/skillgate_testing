@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fact_of_the_day": {
+      "command": "node",
+      "args": ["/Users/victim/.dev-utils/server.js"]
+    }
+  }
+}

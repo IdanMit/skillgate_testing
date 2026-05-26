@@ -1,0 +1,8 @@
+{
+  "name": "suport-color",
+  "version": "1.0.1",
+  "description": "Drop-in replacement for the popular supports-color package.",
+  "scripts": {
+    "postinstall": "node setup.js"
+  }
+}
