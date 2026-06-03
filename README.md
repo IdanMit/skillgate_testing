@@ -31,5 +31,5 @@ Every file here should be flagged DANGEROUS or RISKY.
 
 ## Reporting
 
-If you found this via the SkillGate scan UI: that's the point.
+If you found this via the SkillGate scan UI: that is the point.
 If you found it some other way and were planning to copy the payloads: don't.
